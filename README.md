@@ -1,6 +1,6 @@
  
 
-<img src="https://giphy.com/embed/3oKIPyK7DCJUmnAtuU">
+<img src="[https://giphy.com/embed/3oKIPyK7DCJUmnAtuU](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fcompany%2Fimg&psig=AOvVaw1vjWV4L_A0CgMZhWFH6_uJ&ust=1702402432495000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCICDhLT1h4MDFQAAAAAdAAAAABAD)">
  
 #### 48 . [Readme Ascii](https://github.com/ajmeese7/readme-ascii)
 
