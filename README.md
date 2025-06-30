@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/anandratna1234" target="blank"><img src="https://img.shields.io/twitter/follow/anandratna1234?logo=twitter&style=for-the-badge" alt="anandratna1234" /></a> </p>
 
-- 🔭 I’m currently working on **AI Based Child Growth and up to 15 Years**
+- 🔭 I’m currently working on **AI Based Child consistency and skill growth web app up to 15 Years old child**
 
 - 🌱 I’m currently learning **Full Stack Development + AI/ML**
 
@@ -15,7 +15,7 @@
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/anand-ratna-maurya](https://www.linkedin.com/in/anand-ratna-maurya)
 
-- 💬 Ask me about **Backend Development, Authentication (session and token based), Machine Learning**
+- 💬 Ask me about **Backend Development, Authentication (session and token based), AI**
 
 - 📫 How to reach me **anandratna348@gmail.com**
 
