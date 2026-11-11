@@ -1,39 +1,351 @@
-<h1 align="center">Hi 👋, I'm Anand Ratna Maurya</h1>
-<h3 align="center">A passionate Backend developer + AI/ML from India</h3>
+<!-- ================= HERO SECTION ================= -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anandratna348&label=Profile%20views&color=0e75b6&style=flat" alt="anandratna348" /> </p>
+<div align="center">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anandratna348" alt="anandratna348" /></a> </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090979,50:302b63,100:00d4ff&height=220&section=header&text=Anand%20Ratna%20Maurya&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20Backend%20Developer%20%7C%20Product%20Builder&descAlignY=58&descSize=17" width="100%" />
 
-<p align="left"> <a href="https://twitter.com/anandratna1234" target="blank"><img src="https://img.shields.io/twitter/follow/anandratna1234?logo=twitter&style=for-the-badge" alt="anandratna1234" /></a> </p>
+<a href="https://github.com/anandratna348">
+  <img src="https://komarev.com/ghpvc/?username=anandratna348&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" />
+</a>
+<a href="https://github.com/anandratna348?tab=followers">
+  <img src="https://img.shields.io/github/followers/anandratna348?style=for-the-badge&color=blue&label=FOLLOWERS" />
+</a>
+<a href="https://github.com/anandratna348?tab=repositories">
+  <img src="https://img.shields.io/badge/FOCUS-AI%20ENGINEERING-00b4d8?style=for-the-badge" />
+</a>
 
-- 🔭 I’m currently working on **AI Based Child consistency and skill growth web app up to 15 Years old child**
+</div>
 
-- 🌱 I’m currently learning **Full Stack Development + AI/ML**
+<h2 align="center">Building Intelligent Products with AI & Engineering 🚀</h2>
 
-- 👨‍💻 All of my projects are available at [https://github.com/anandratna348?tab=repositories](https://github.com/anandratna348?tab=repositories)
-
-- 📝 I regularly write articles on [https://www.linkedin.com/in/anand-ratna-maurya](https://www.linkedin.com/in/anand-ratna-maurya)
-
-- 💬 Ask me about **Backend Development, Authentication (session and token based), AI**
-
-- 📫 How to reach me **anandratna348@gmail.com**
-
-- 📄 Know about my experiences [Successfully fine-tuned four large language models (LLMs) with a focus on enhancing performance in mathematics and software development tasks.](Successfully fine-tuned four large language models (LLMs) with a focus on enhancing performance in mathematics and software development tasks.)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/anandratna1234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anandratna1234" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/anand-ratna-maurya/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anand-ratna-maurya/" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/anandratna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/anandratna" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/anandratna348/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/anandratna348/" height="30" width="40" /></a>
+<p align="center">
+  I'm <b>Anand Ratna Maurya</b>, an AI Engineer and product builder passionate about transforming ideas into useful software products.
+  <br/>
+  I work across <b>Generative AI, LLMs, Multi-Agent Systems, Backend Engineering, and Intelligent Automation.</b>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+<div align="center">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anandratna348&show_icons=true&locale=en&layout=compact" alt="anandratna348" /></p>
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/anandratna348)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anand-ratna-maurya/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:anandratna348@gmail.com)
+[![Website](https://img.shields.io/badge/Voxta-00A8E8?style=flat-square&logo=googlechrome&logoColor=white)](https://voxta.in)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anandratna348&show_icons=true&locale=en" alt="anandratna348" /></p>
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anandratna348&" alt="anandratna348" /></p>
+---
+
+## 🧑‍💻 About Me
+
+<table>
+<tr>
+<td width="60%" valign="top">
+
+### My Engineering Philosophy
+
+I enjoy building systems that combine intelligent models with reliable software engineering.
+
+- 🤖 Building AI-powered applications and autonomous agents.
+- 🧠 Exploring RAG, LLMs, MCP, and agentic workflows.
+- ⚙️ Designing APIs, backend architectures, and scalable services.
+- 📦 Building independent SaaS products.
+- 🔬 Interested in MLOps, AI infrastructure, and production AI systems.
+
+</td>
+<td width="40%" valign="top">
+
+### Current Focus
+
+| Area | Focus |
+|---|---|
+| 🤖 AI | LLMs & AI Agents |
+| 🔎 RAG | Retrieval & Semantic Search |
+| 🔗 MCP | Tool Integration |
+| ⚙️ Backend | FastAPI & PostgreSQL |
+| 🚀 Products | SaaS & Automation |
+| 🖥️ Desktop AI | Voxta |
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🚀 Products & Things I'm Building
+
+<p align="center">
+  <i>Turning ideas into products that solve real-world problems.</i>
+</p>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h3>📝 Contentify</h3>
+
+<a href="https://contentify.in">
+<img src="https://img.shields.io/badge/EXPLORE-CONTENTIFY-6366F1?style=for-the-badge" />
+</a>
+
+**AI-Powered Resume Tailoring Platform**
+
+An intelligent platform designed to help job seekers optimize their resumes according to specific job descriptions.
+
+**Highlights**
+- AI-powered resume tailoring.
+- Job description analysis.
+- ATS-focused content optimization.
+- Structured resume generation.
+- LaTeX-based resume formatting.
+
+**Category:** AI · Career Tech · SaaS
+
+</td>
+<td width="50%" valign="top">
+
+<h3>📨 Autometa</h3>
+
+<img src="https://img.shields.io/badge/PRODUCT-EMAIL%20AUTOMATION-0EA5E9?style=for-the-badge" />
+
+**Multi-Provider Bulk Email Automation**
+
+A flexible email automation platform built to simplify personalized bulk email delivery across different email providers.
+
+**Highlights**
+- Individual recipient delivery.
+- Gmail integration.
+- Outlook / Hotmail support.
+- Zoho Mail integration.
+- Custom-domain email support.
+- Multi-provider email workflows.
+
+**Category:** Automation · SaaS · Email Infrastructure
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<h3>🔍 Emaiy</h3>
+
+<img src="https://img.shields.io/badge/PRODUCT-CHROME%20EXTENSION-16A34A?style=for-the-badge" />
+
+**Smart Contact & Email Collector**
+
+A Chrome extension designed to simplify collecting publicly available contact information while browsing websites.
+
+**Highlights**
+- Email address extraction.
+- Name collection when available.
+- Browser-based workflow.
+- Faster contact research.
+- Productivity-focused data collection.
+
+**Category:** Browser Extension · Productivity · Automation
+
+</td>
+<td width="50%" valign="top">
+
+<h3>🎙️ Voxta</h3>
+
+<img src="https://img.shields.io/badge/UNDER%20DEVELOPMENT-8B5CF6?style=for-the-badge" />
+
+**AI-Powered Meeting Assistant**
+
+An intelligent desktop assistant designed to improve meeting and interview productivity through transcription and contextual AI assistance.
+
+**Highlights**
+- Local speech-to-text transcription.
+- Interview question detection.
+- Context-aware AI suggestions.
+- Meeting assistance.
+- Local-first processing architecture.
+
+**Tech:** Python · FastAPI · Tauri · React · Faster-Whisper · Gemini API
+
+🌐 [voxta.in](https://voxta.in)
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🧠 AI Engineering & Research Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🔬 MCP Incident Analyst
+
+**AI-Powered Multi-Agent Incident Investigation**
+
+Automates incident investigation and root cause analysis by correlating logs, GitHub commits, historical incidents, and technical documentation.
+
+`LangGraph` `MCP` `Ollama` `ChromaDB` `PostgreSQL` `FastAPI`
+
+[↗ Explore Repository](https://github.com/Sh1617/MCP-Incident-Analyst)
+
+</td>
+<td width="50%" valign="top">
+
+### 🧩 Astraeus RAG Platform
+
+**Multi-Agent Document Intelligence**
+
+A document intelligence platform with ingestion pipelines, semantic retrieval, conversational memory, and multi-agent orchestration.
+
+`RAG` `LLMs` `FastAPI` `React` `Vector DB` `Ollama`
+
+[↗ Explore Repository](https://github.com/Sh1617/astraeus-rag-platform)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ❤️ Heart Disease Prediction
+
+**End-to-End Machine Learning & MLOps**
+
+A predictive healthcare analytics project with an ML workflow and cloud deployment.
+
+`Python` `Scikit-learn` `MLflow` `Docker` `GCP`
+
+[↗ Explore Repository](https://github.com/Sh1617/heart-disease-mlops-pipeline)
+
+</td>
+<td width="50%" valign="top">
+
+### ⚡ More Experiments
+
+Exploring new ideas across:
+
+- LLM applications and orchestration.
+- AI-powered automation.
+- Backend architecture.
+- Machine learning pipelines.
+- Intelligent developer tools.
+
+[↗ Browse All Repositories](https://github.com/anandratna348?tab=repositories)
+
+</td>
+</tr>
+</table>
+
+---
+
+# ⚙️ Technology Arsenal
+
+<div align="center">
+
+### 🤖 AI / Generative AI
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white" />
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square" />
+<img src="https://img.shields.io/badge/RAG-6366F1?style=flat-square" />
+<img src="https://img.shields.io/badge/MCP-8B5CF6?style=flat-square" />
+<img src="https://img.shields.io/badge/Ollama-000000?style=flat-square" />
+<img src="https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white" />
+
+### 🐍 Backend & Programming
+
+<img src="https://skillicons.dev/icons?i=python,fastapi,django,flask,postgres,redis,sqlite" />
+
+### 🌐 Frontend & Desktop
+
+<img src="https://skillicons.dev/icons?i=react,typescript,javascript,vue,tailwind,vite" />
+
+### ☁️ DevOps & Infrastructure
+
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,gcp,linux,git,github,githubactions" />
+
+### 📊 Data & Analytics
+
+<img src="https://skillicons.dev/icons?i=numpy,pandas" />
+
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenTelemetry-FFFFFF?style=flat-square&logo=opentelemetry&logoColor=black" />
+
+</div>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=anandratna348&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anandratna348&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=anandratna348&theme=tokyonight&hide_border=true" />
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=anandratna348&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1" width="100%" />
+
+</div>
+
+---
+
+# 🐍 Contribution Activity
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/anandratna348/anandratna348/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake Animation" />
+
+</div>
+
+---
+
+# 🤝 Let's Build Something Together
+
+I'm open to connecting with engineers, AI enthusiasts, founders, and people building interesting products.
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+### 💼 LinkedIn
+
+Connect professionally.
+
+[Let's Connect ↗](https://www.linkedin.com/in/anand-ratna-maurya/)
+
+</td>
+<td align="center" width="33%">
+
+### 💻 GitHub
+
+Explore my engineering work.
+
+[Explore Projects ↗](https://github.com/anandratna348)
+
+</td>
+<td align="center" width="33%">
+
+### 📧 Email
+
+Have an idea or opportunity?
+
+[Contact Me ↗](mailto:anandratna348@gmail.com)
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+### 💡 "Don't just build software. Build solutions people love to use."
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:302b63,100:090979&height=120&section=footer" width="100%" />
+
+</div>
