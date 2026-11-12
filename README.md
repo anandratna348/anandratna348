@@ -296,6 +296,24 @@ Exploring new ideas across:
 
 ---
 
+
+# 🏆 GitHub Achievements
+
+
+
+<div align="center">
+
+<a href="https://github.com/Sh1617">
+<img src="https://img.shields.io/badge/VIEW-GITHUB%20ACHIEVEMENTS-7C3AED?style=for-the-badge&logo=github" />
+</a>
+
+<br/><br/>
+
+<i>Explore my GitHub profile for achievements, contributions and open-source activity.</i>
+
+</div>
+
+
 # 🐍 Contribution Activity
 
 
